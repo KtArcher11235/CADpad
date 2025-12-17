@@ -1,0 +1,4 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW2,SW4,SW3,SW6,SW1,SW5";"SW_Cherry_MX_1.00u_PCB";6;"SW_Push";;;
+2;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+3;"D6,D3,D4,D2,D5,D1";"SK6812-MINI-E";6;"SK6812MINI";;;
