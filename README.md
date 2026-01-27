@@ -1,7 +1,8 @@
 # CADpad
 A hackpad designed for cad
 <br>
-<img width="754" height="521" alt="Screenshot 2025-12-16 220756" src="https://github.com/user-attachments/assets/dd787f40-8406-459c-b253-2e99d1e110f1" />
+![2026-01-25-15-56-04-340](https://github.com/user-attachments/assets/47b9befa-dfd4-421e-9ecf-f9178b91ab60)
+
 <br>
 ## rationale
 I needed a macropad to help with cad designing, eg, usefull and cimple keys that you dont even think about like ctrl and shift etc.
