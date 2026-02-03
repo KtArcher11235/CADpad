@@ -4,6 +4,7 @@ A hackpad designed for cad
 ![2026-01-25-15-56-04-340](https://github.com/user-attachments/assets/47b9befa-dfd4-421e-9ecf-f9178b91ab60)
 
 <br>
+
 ## rationale
 I needed a macropad to help with cad designing, eg, usefull and cimple keys that you dont even think about like ctrl and shift etc.
 <br>
@@ -26,3 +27,10 @@ firmware
 <img width="1536" height="809" alt="image" src="https://github.com/user-attachments/assets/5af4cec4-3e30-41fe-849d-83f3344d28b5" /> <br> 
 ## case
 <img width="838" height="770" alt="image" src="https://github.com/user-attachments/assets/321cca38-ff96-490e-b71e-3465d54a690e" />  
+
+## assembly
+1. put in the heatset inserts
+2. put the pcb in (glue is youe friend.)
+3. screw the lid on
+4. upload firmware
+5. its that easy
